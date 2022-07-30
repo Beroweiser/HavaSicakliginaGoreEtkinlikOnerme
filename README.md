@@ -1,0 +1,2 @@
+# HavaSicakliginaGoreEtkinlikOnerme
+proje
